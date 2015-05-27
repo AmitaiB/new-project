@@ -3,4 +3,4 @@ Markdown Language?
 
 # Note to self (that's you, Amitai)
 
-I should look up and read up on "markdown language"
+I've looked up what Markdown is, and I think it is a fascinating story. Indeed.
